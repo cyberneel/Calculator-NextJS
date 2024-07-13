@@ -7,11 +7,11 @@ export default function Home() {
         <div>
             <Head>
                 <title>Calculator</title>
-                <meta name="description" content="A simple calculator app built with Next.js" />
             </Head>
 
             <main>
                 <h1>Simple Calculator</h1>
+                <p>A simple calculator made in NextJS</p>
                 <Calculator />
             </main>
         </div>
